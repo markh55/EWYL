@@ -5,7 +5,7 @@ This site is aimed at getting adults into worked based learning to gain valuable
 My aim for this website is to be inviting and simple to use but also deliver enough information to get the learner / employer to reach out and make contact with us so we can pair them with the perfect learner / employer to meet each other’s needs.
 
 
-## Table of contents 
+## Table of content
 
  - [Planning](#Planning)
  - [ColourScheme](#Colourscheme)
@@ -14,7 +14,8 @@ My aim for this website is to be inviting and simple to use but also deliver eno
  - [languages](#Languages)
  - [Contact](#Contact)
  - [Acknowledgments](#Acknowledgments)
- - 
+
+   
  ## Planning
 
 ### Target Audiences
