@@ -30,3 +30,17 @@ My aim for this website is to be inviting and simple to use but also deliver eno
    * When using your site i would like to see images with the courses along with detailed descriptions.
    * I would like to have the option to sign up to weekly/monthly newsletters to keep up with all the latest news and what is on offer.
 
+### Aims
+   * To provide clear information on what courses are available.
+   * To provide a simple and userfriendly website to navigate.
+   * To have a contact us section so a clear line of contact is available.
+   * To have clear information on what an apprenticship intails on the home page but not too much information to overload the user
+     
+## How to achieved this
+   * The navigation bar will be clean and simplified containing only the pages and logo
+   * The home page will have the following an Hero image, About us and who we are section and a Is an apprentiship right for you section
+   * Page two will be the courses page that will contain a breif intro to each course along with a photo.
+   * Page three will be the contact us page that will contain a form to request a call back and leave a message.
+
+
+ ### Wireframes
