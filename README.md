@@ -59,11 +59,13 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 
 
 ## Languages
+* HTML
+* CSS
 
 
 ## Contact
 
-
+Project Link - 
 
 ## Acknowledgments 
 
