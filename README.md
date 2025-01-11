@@ -50,6 +50,9 @@ My aim for this website is to be inviting and simple to use but also deliver eno
  
 ## Colour Scheme
 
+![Colour Scheme (1)](https://github.com/user-attachments/assets/8a3b91fc-59a6-4c75-9a7b-6f1169675890)
+
+This is the colour scheme i went with as i feel the contrast compliment each other.
 
 ## Testing
 
