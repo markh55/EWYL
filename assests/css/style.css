@@ -104,3 +104,19 @@ header a {
   width: 100%;
 
 }
+
+/* main section */
+
+body {
+  background-color: #FFF1EB;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.raleway-heading,
+.open-sans-paragraph {
+  color: #284B63;
+  text-align: center;
+}
