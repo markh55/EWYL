@@ -84,4 +84,8 @@ This is the colour scheme i went with as i feel the contrast compliment each oth
 Project Link - 
 
 ## Acknowledgments 
-
+ * Favicon from icons8.com
+ * W3schools
+ * Font awesome
+ * Coolers for my colour scheme
+ * Bootstrap for custom button
