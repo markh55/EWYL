@@ -146,6 +146,26 @@ div#list {
   text-align: center;
 }
 
+
+/* Custom button */
+
+.btn-primary {
+  background-color: #284B63;
+  border: #284B63;
+  color: #FFF1EB;
+}
+
+.btn-primary:hover {
+  background-color: #FFF1EB;
+  color: #284B63;
+  border: #284B63 solid 2px;
+}
+
+div#custombtn {
+  padding-left: 10px;
+  text-align: center;
+}
+
 /* social links / footer */
 
 .social-links {
