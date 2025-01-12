@@ -163,3 +163,41 @@ div#list {
   background-color: #FFF1EB;
   color: #284B63;
 }
+
+/* tablets and mobiles */
+
+@media screen and (min-width:768px) {
+  nav {
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width:fit-content;
+    padding-right: 1rem;
+  }
+  
+  .navlist {
+    display: flex;
+  }
+
+  .navlist > li {
+    padding-left: 1rem;
+  }
+
+.nav-toggle-label {
+  display: none;
+}
+
+#logo {
+  font-size: 300%;
+  margin: 0 0.5rem;
+}
+}
+
+/* laptops and above */
+
+@media screen and (min-width: 992px) {
+  .navlist a:hover {
+      border-bottom: 1px solid #FFF1EB;
+  }
+ 
+}
