@@ -145,3 +145,21 @@ main {
 div#list {
   text-align: center;
 }
+
+/* social links / footer */
+
+.social-links {
+  color: #FFF1EB;
+  list-style-type: none;
+  text-align: center;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-evenly;
+  size: 100px;
+
+}
+
+#icon {
+  background-color: #FFF1EB;
+  color: #284B63;
+}
