@@ -88,9 +88,4 @@ Project Link -
  * W3schools
  * Font awesome
  * Coolers for my colour scheme
-<<<<<<< HEAD
  * Bootstrap for custom button
-=======
- * Bootstrap for custom button
-
->>>>>>> 21c9bd0b2051b8680a79246b3cf5bb5c3da6420c
