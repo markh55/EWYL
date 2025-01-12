@@ -120,3 +120,28 @@ body {
   color: #284B63;
   text-align: center;
 }
+
+p, h2 {
+  text-align: center;
+ 
+}
+
+#benefits {
+  list-style-type: none;
+  text-align: center;
+}
+
+#contact, .social-links {
+  background-color: #284B63;
+  color: #FFF1EB;
+  padding-bottom: 0.5rem;
+}
+
+main {
+  margin-top: 47px;
+  display: flex;
+  flex-direction: column; }
+
+div#list {
+  text-align: center;
+}
