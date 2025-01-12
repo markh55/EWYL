@@ -16,3 +16,91 @@
   font-variation-settings: "wdth" 100;
   font-size: 1rem;
 }
+
+/* navbar */
+
+#navbar {
+  overflow: hidden;
+  background-color: #284B63;
+  color: #FFF1EB;
+  position: fixed;
+  top: 0;
+  width: 100%; 
+}
+
+#navbar {
+  background-color: #284B63;
+  color: #FFF1EB;
+}
+
+#logo {
+  color: #FFF1EB;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+#menutog {
+  color: #FFF1EB;
+  padding-right: 20px; 
+}
+
+.navlist > li {
+  margin-bottom: 1em;
+}
+.active {
+  border-bottom: 1px solid #FFF1EB;
+}
+
+nav {
+  position: absolute;
+  background-color: #284B63;
+  width: 100%;
+  left: 0;
+  padding: 0 1rem;
+  box-shadow: 0 2px 2px #FFF1EB;
+  display: none;
+  top: 100%;
+}
+
+#nav-toggle:checked~nav {
+  display: block;
+}
+#nav-toggle {
+  display: none;
+}
+.nav-toggle-label {
+  font-size: 2rem;
+}
+
+.navlist {
+  color: #FFF1EB;
+  font-size: 110%;
+  list-style-type: none;
+  letter-spacing: 2px;
+}
+
+header {
+  background-color: #284B63;
+  padding-bottom: 0rem;
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+
+header a {
+  text-decoration: none;
+  color: #FFF1EB;
+}
+
+/* hero photo */
+
+.hero {
+ 
+  height: 70vh;
+  width: 100%;
+
+}
