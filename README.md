@@ -10,6 +10,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
  - [Planning](#Planning)
  - [ColourScheme](#Colourscheme)
  - [Final Design](#FinalDesign)
+ - [Deployment](#Deployment)
  - [Testing](#Testing)
  - [DeBugging](#DeBugging)
  - [Technologies Used](#TechnologiesUsed)
@@ -72,6 +73,38 @@ This is the colour scheme i went with as i feel the contrast compliment each oth
 ## Final Design
 
 ![Screenshot 2025-01-13 at 20 24 26](https://github.com/user-attachments/assets/b54649e9-556b-4615-b095-58df566e46b3)
+
+
+## Deployment
+
+### Repository
+
+•	I made public local repository on my Github account, I then linked my repository to my Gitpod account and start building.
+
+•	When writing my code I ensured that I committed my changes to the repository using clear and direct messages for any changes such as “linked Style.css file to index.HTML” this is done by doing the following;
+In the terminal type;
+* git add .
+* git commit -m “Enter message here”
+* git push
+
+I would send a commit after each change then I would push the file once ive made 3 or 4 changes.
+
+
+### Hosting
+
+This is how I will host my website, On Github I Selected my Earn While You Learn (EWYL) 
+Repository, then go to;
+* Settings
+* Pages
+
+  
+Once on the pages site I would ensure the following settings was applied;
+	Source would need to be set to ‘Deploy from branch’
+	Branch will need to be set to main and then root. 
+	Save.
+
+
+<img width="1677" alt="Screenshot of Repo" src="https://github.com/user-attachments/assets/4ef371e4-d018-4889-92a7-1cbb5b939fc9" />
 
 
 ## Testing
