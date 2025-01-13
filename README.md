@@ -59,7 +59,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 ![Get in Touch Page](https://github.com/user-attachments/assets/6fad31c2-83eb-4dc0-a6df-09582788e2af)
 
 
-### Reasion for design - I went with a basice yet responsive design that will be inviting to all users of the website aswell as giving all the relevent information.
+Reasion for design - I went with a basice yet responsive design that will be inviting to all users of the website aswell as giving all the relevent information.
  
 ## Colour Scheme
 
