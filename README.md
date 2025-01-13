@@ -11,7 +11,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
  - [ColourScheme](#Colourscheme)
  - [Testing](#Testing)
  - [DeBugging](#DeBugging)
- - [languages](#Languages)
+ - [Technologies Used](#TechnologiesUsed)
  - [Contact](#Contact)
  - [Acknowledgments](#Acknowledgments)
 
@@ -78,7 +78,7 @@ i used W3 Validator to check my code was all correct and if any errors was in th
 ![Errors Fixed](https://github.com/user-attachments/assets/e3d8627e-9535-48a9-8e16-834785a7c3a5)
 
 
-## Technologies
+## Technologies Used
 * HTML
 * CSS
 
