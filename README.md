@@ -9,6 +9,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 
  - [Planning](#Planning)
  - [ColourScheme](#Colourscheme)
+ - [Final Design](#FinalDesign)
  - [Testing](#Testing)
  - [DeBugging](#DeBugging)
  - [Technologies Used](#TechnologiesUsed)
@@ -66,6 +67,12 @@ Reason for design - I went with a basice yet responsive design that will be invi
 ![Colour Scheme (1)](https://github.com/user-attachments/assets/8a3b91fc-59a6-4c75-9a7b-6f1169675890)
 
 This is the colour scheme i went with as i feel the contrast compliment each other.
+
+
+## Final Design
+
+![Screenshot 2025-01-13 at 20 24 26](https://github.com/user-attachments/assets/b54649e9-556b-4615-b095-58df566e46b3)
+
 
 ## Testing
 
