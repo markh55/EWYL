@@ -68,14 +68,14 @@ Reason for design - I went with a basice yet responsive design that will be invi
 This is the colour scheme i went with as i feel the contrast compliment each other.
 
 ## Testing
+
+
+## DeBugging
 [Home page error check.pdf](https://github.com/user-attachments/files/18400775/Home.page.error.check.pdf)
 
 i used W3 Validator to check my code was all correct and if any errors was in there. the outcome was 10 errors that has been fixed in the image below
 
 ![Errors Fixed](https://github.com/user-attachments/assets/e3d8627e-9535-48a9-8e16-834785a7c3a5)
-
-
-## DeBugging
 
 
 ## Technologies
