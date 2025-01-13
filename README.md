@@ -7,15 +7,21 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 
 ## Table of content
 
- - [Planning](#Planning)
- - [ColourScheme](#Colourscheme)
- - [Final Design](#FinalDesign)
- - [Deployment](#Deployment)
- - [Testing](#Testing)
- - [DeBugging](#DeBugging)
- - [Technologies Used](#TechnologiesUsed)
- - [Contact](#Contact)
- - [Acknowledgments](#Acknowledgments)
+ 1. [Planning](#Planning)
+    * [Target Audiences](#TargetAudiences)
+    * [User Stories](#UserStories)
+    * [Aims](#Aims)
+    * [How to achieved this](#Howtoachievedthis)
+ 2. [ColourScheme](#Colourscheme)
+ 3. [Final Design](#FinalDesign)
+ 4. [Deployment](#Deployment)
+    * [Repository](#Repository)
+    * [Hosting](#Hosting)
+ 6. [Testing](#Testing)
+ 7. [DeBugging](#DeBugging)
+ 8. [Technologies Used](#TechnologiesUsed)
+ 9. [Contact](#Contact)
+ 10. [Acknowledgments](#Acknowledgments)
 
    
  ## Planning
