@@ -1,24 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
-
 .raleway-heading {
   font-family: "Raleway", serif;
-  font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
   font-size: 2.5rem;
 }
-
 .open-sans-paragraph {
   font-family: "Open Sans", serif;
-  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
   font-variation-settings: "wdth" 100;
   font-size: 1rem;
 }
-
 /* navbar */
-
 #navbar {
   overflow: hidden;
   background-color: #284B63;
@@ -27,31 +21,26 @@
   top: 0;
   width: 100%; 
 }
-
 #navbar {
   background-color: #284B63;
   color: #FFF1EB;
 }
-
 #logo {
   color: #FFF1EB;
   text-align: left;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-
 #menutog {
   color: #FFF1EB;
   padding-right: 20px; 
 }
-
 .navlist > li {
   margin-bottom: 1em;
 }
 .active {
   border-bottom: 1px solid #FFF1EB;
 }
-
 nav {
   position: absolute;
   background-color: #284B63;
@@ -62,7 +51,6 @@ nav {
   display: none;
   top: 100%;
 }
-
 #nav-toggle:checked~nav {
   display: block;
 }
@@ -72,14 +60,12 @@ nav {
 .nav-toggle-label {
   font-size: 2rem;
 }
-
 .navlist {
   color: #FFF1EB;
   font-size: 110%;
   list-style-type: none;
   letter-spacing: 2px;
 }
-
 header {
   background-color: #284B63;
   padding-bottom: 0rem;
@@ -89,85 +75,64 @@ header {
   justify-content: space-between;
   align-items: baseline;
 }
-
-
 header a {
   text-decoration: none;
   color: #FFF1EB;
 }
-
 /* hero photo */
-
 .hero {
  
   height: 70vh;
   width: 100%;
-
 }
-
 /* main section */
-
 body {
   background-color: #FFF1EB;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-
 }
-
 .raleway-heading,
 .open-sans-paragraph {
   color: #284B63;
   text-align: center;
 }
-
 p, h2 {
   text-align: center;
  
 }
-
 #benefits {
   list-style-type: none;
   text-align: center;
 }
-
 #contact, .social-links {
   background-color: #284B63;
   color: #FFF1EB;
   padding-bottom: 0.5rem;
 }
-
 main {
   margin-top: 47px;
   display: flex;
   flex-direction: column; }
-
 div#list {
   text-align: center;
 }
-
-
 /* Custom button */
-
 .btn-primary {
   background-color: #284B63;
   border: #284B63;
   color: #FFF1EB;
 }
-
 .btn-primary:hover {
   background-color: #FFF1EB;
   color: #284B63;
   border: #284B63 solid 2px;
 }
-
 div#custombtn {
   padding-left: 10px;
   text-align: center;
 }
-
 /* social links / footer */
-
 .social-links {
   color: #FFF1EB;
   list-style-type: none;
@@ -175,17 +140,13 @@ div#custombtn {
   padding: 20px 0;
   display: flex;
   justify-content: space-evenly;
-  size: 100px;
-
 }
-
-#icon {
+.icon {
   background-color: #FFF1EB;
   color: #284B63;
+  font-size: 2rem;
 }
-
 /* tablets and mobiles */
-
 @media screen and (min-width:768px) {
   nav {
     display: block;
@@ -198,23 +159,18 @@ div#custombtn {
   .navlist {
     display: flex;
   }
-
   .navlist > li {
     padding-left: 1rem;
   }
-
 .nav-toggle-label {
   display: none;
 }
-
 #logo {
   font-size: 300%;
   margin: 0 0.5rem;
 }
 }
-
 /* laptops and above */
-
 @media screen and (min-width: 992px) {
   .navlist a:hover {
       border-bottom: 1px solid #FFF1EB;
