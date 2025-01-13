@@ -18,10 +18,11 @@ My aim for this website is to be inviting and simple to use but also deliver eno
     * [Repository](#Repository)
     * [Hosting](#Hosting)
  6. [Testing](#Testing)
- 7. [DeBugging](#DeBugging)
- 8. [Technologies Used](#TechnologiesUsed)
- 9. [Contact](#Contact)
- 10. [Acknowledgments](#Acknowledgments)
+ 7.  * [Light house](#Lighthouse) 
+ 8. [DeBugging](#DeBugging)
+ 9. [Technologies Used](#TechnologiesUsed)
+ 10. [Contact](#Contact)
+ 11. [Acknowledgments](#Acknowledgments)
 
    
  ## Planning
@@ -114,6 +115,16 @@ Once on the pages site I would ensure the following settings was applied;
 
 
 ## Testing
+
+### Lighthouse
+
+Mobile home page -
+
+![Lighthouse Mobile](https://github.com/user-attachments/assets/6ffa14e5-9214-40c7-afed-3399e8e299a2)
+
+Desktop home page -
+
+<img width="466" alt="Lighthouse test - Desktop" src="https://github.com/user-attachments/assets/dfec7139-ac83-4cb6-a1ca-f75f607bf08f" />
 
 
 ## DeBugging
