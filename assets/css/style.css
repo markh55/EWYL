@@ -139,11 +139,6 @@ div.card {
   position: static;
 }
 
-#course-cards, #course-cards2 {
-  text-align: center;
-  justify-content: space-evenly;
-  padding: 20px 0;
-}
 
 /* social links / footer */
 .social-links {
