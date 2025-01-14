@@ -132,6 +132,19 @@ div#custombtn {
   padding-left: 10px;
   text-align: center;
 }
+
+/* qualifications cards */
+
+div.card { 
+  position: static;
+}
+
+#course-cards, #course-cards2 {
+  text-align: center;
+  justify-content: space-evenly;
+  padding: 20px 0;
+}
+
 /* social links / footer */
 .social-links {
   color: #FFF1EB;
