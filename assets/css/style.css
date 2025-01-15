@@ -154,6 +154,16 @@ div.card {
   color: #284B63;
   font-size: 2rem;
 }
+
+#Course-cards .card {
+  margin-bottom: 1.5rem;
+  min-height: 191px;
+}
+
+#Course-cards-row-2 .card {
+  margin-bottom: 1.5rem;
+  min-height: 191px;
+}
 /* tablets and mobiles */
 @media screen and (min-width:768px) {
   nav {
@@ -180,11 +190,15 @@ div.card {
 
 #Course-cards .card {
   margin-bottom: 1.5rem;
+  min-height: 191px;
 }
 
 #Course-cards-row-2 .card {
   margin-bottom: 1.5rem;
+  min-height: 191px;
 }
+
+
 }
 /* laptops and above */
 @media screen and (min-width: 992px) {
