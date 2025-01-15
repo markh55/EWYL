@@ -177,11 +177,18 @@ div.card {
   font-size: 300%;
   margin: 0 0.5rem;
 }
+
+.card {
+  margin-bottom: 1.5rem;
+}
 }
 /* laptops and above */
 @media screen and (min-width: 992px) {
   .navlist a:hover {
       border-bottom: 1px solid #FFF1EB;
+  }
+  .card {
+    min-height: 191px;
   }
  
 }
