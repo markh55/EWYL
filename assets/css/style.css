@@ -178,7 +178,11 @@ div.card {
   margin: 0 0.5rem;
 }
 
-.card {
+#Course-cards .card {
+  margin-bottom: 1.5rem;
+}
+
+#Course-cards-row-2 .card {
   margin-bottom: 1.5rem;
 }
 }
