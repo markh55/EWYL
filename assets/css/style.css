@@ -97,9 +97,13 @@ body {
   color: #284B63;
   text-align: center;
 }
-p, h2 {
+p, h2, h3 {
   text-align: center;
  
+}
+
+h3 {
+  font-family: "Raleway", serif;
 }
 #benefits {
   list-style-type: none;
