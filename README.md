@@ -122,9 +122,18 @@ Mobile home page -
 
 ![Lighthouse Mobile](https://github.com/user-attachments/assets/6ffa14e5-9214-40c7-afed-3399e8e299a2)
 
+Mobile course page - 
+
+![Page 2 lighthouse Mobile](https://github.com/user-attachments/assets/52ac6625-9008-462f-ad89-49d32e512cd7)
+
+
 Desktop home page -
 
 <img width="466" alt="Lighthouse test - Desktop" src="https://github.com/user-attachments/assets/dfec7139-ac83-4cb6-a1ca-f75f607bf08f" />
+
+Desktop course page - 
+
+![Page 2 Lighthouse desktop](https://github.com/user-attachments/assets/45f50150-f1d7-48d5-9025-19b97bb5d02b)
 
 
 ## DeBugging
