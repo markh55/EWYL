@@ -126,6 +126,10 @@ Mobile course page -
 
 ![Page 2 lighthouse Mobile](https://github.com/user-attachments/assets/52ac6625-9008-462f-ad89-49d32e512cd7)
 
+Mobile Call Back page
+
+<img width="538" alt="Lighthouse testing Call back page -Mobile" src="https://github.com/user-attachments/assets/94b265cc-c7ff-4bfe-9ac7-2763c49161ea" />
+
 
 Desktop home page -
 
@@ -134,6 +138,11 @@ Desktop home page -
 Desktop course page - 
 
 ![Page 2 Lighthouse desktop](https://github.com/user-attachments/assets/45f50150-f1d7-48d5-9025-19b97bb5d02b)
+
+Desktop CallBack page -
+
+<img width="539" alt="Lighthouse testing Call Back page -Desktop" src="https://github.com/user-attachments/assets/77b5db96-217a-42b2-b67c-65733101605c" />
+
 
 
 ## DeBugging
