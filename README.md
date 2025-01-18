@@ -17,12 +17,13 @@ My aim for this website is to be inviting and simple to use but also deliver eno
  4. [Deployment](#Deployment)
     * [Repository](#Repository)
     * [Hosting](#Hosting)
- 6. [Testing](#Testing)
- 7.  * [Light house](#Lighthouse) 
- 8. [DeBugging](#DeBugging)
- 9. [Technologies Used](#TechnologiesUsed)
- 10. [Contact](#Contact)
- 11. [Acknowledgments](#Acknowledgments)
+ 5. [Testing](#Testing)
+    * [Mobile](#Mobile)
+    * [Desktop](#Desktop)
+ 6. [DeBugging](#DeBugging)
+ 7. [Technologies Used](#TechnologiesUsed)
+ 8. [Contact](#Contact)
+ 9. [Acknowledgments](#Acknowledgments)
 
    
  ## Planning
@@ -126,7 +127,7 @@ Once on the pages site I would ensure the following settings was applied;
 
 ## Testing
 
-### Lighthouse
+### Mobile
 
 Mobile home page -
 
@@ -140,6 +141,8 @@ Mobile Call Back page
 
 <img width="538" alt="Lighthouse testing Call back page -Mobile" src="https://github.com/user-attachments/assets/94b265cc-c7ff-4bfe-9ac7-2763c49161ea" />
 
+
+### Desktop
 
 Desktop home page -
 
