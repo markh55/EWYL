@@ -79,7 +79,17 @@ This is the colour scheme i went with as i feel the contrast compliment each oth
 
 ## Final Design
 
+Home Page -
 ![Screenshot 2025-01-13 at 20 24 26](https://github.com/user-attachments/assets/b54649e9-556b-4615-b095-58df566e46b3)
+
+Courses Page -
+
+<img width="1485" alt="Mockup Courses page" src="https://github.com/user-attachments/assets/2d7a72ae-1558-431b-a78d-a6018c5f1372" />
+
+
+CallBack Page -
+
+<img width="1378" alt="Mockup CallBack page" src="https://github.com/user-attachments/assets/1cd1e490-b383-4e30-b4d3-af6367ae500c" />
 
 
 ## Deployment
