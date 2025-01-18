@@ -163,8 +163,8 @@ i used W3 Validator to check my code was all correct and if any errors was in th
 Project Link - https://markh55.github.io/EWYL/
 
 ## Acknowledgments 
- * Favicon from icons8.com
- * W3schools
- * Font awesome
- * Coolers for my colour scheme
- * Bootstrap for custom button
+ * [Favicon from](https://icons8.com/)
+ * [W3schools](https://www.w3schools.com/)
+ * [Font awesome](https://fontawesome.com/)
+ * [Coolers for my colour scheme](https://coolors.co/)
+ * [Bootstrap for custom button](https://getbootstrap.com/)
