@@ -132,13 +132,13 @@ div#list {
   border: #284B63 solid 2px;
 }
 #custombtn {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
   text-align: center;
 }
 
 button#submitbtn {
-  padding-left: 10px;
+  padding-left: 6px;
   text-align: center;
 }
 
