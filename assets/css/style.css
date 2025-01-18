@@ -99,6 +99,7 @@ body {
 }
 p, h2, h3 {
   text-align: center;
+  font-family: 0pen-sans-paragraph;
  
 }
 
@@ -132,7 +133,12 @@ div#list {
   color: #284B63;
   border: #284B63 solid 2px;
 }
-div#custombtn {
+#custombtn {
+  padding-left: 10px;
+  text-align: center;
+}
+
+button#submitbtn {
   padding-left: 10px;
   text-align: center;
 }
