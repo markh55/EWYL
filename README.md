@@ -163,8 +163,16 @@ Desktop CallBack page -
 
 i used W3 Validator to check my code was all correct and if any errors was in there. the outcome was 10 errors that has been fixed in the image below
 
+### Home Page
 ![Errors Fixed](https://github.com/user-attachments/assets/e3d8627e-9535-48a9-8e16-834785a7c3a5)
 
+
+### Courses Page
+
+
+
+
+### CallBack Page
 
 ## Technologies Used
 * HTML
