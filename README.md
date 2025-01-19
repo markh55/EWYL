@@ -184,13 +184,19 @@ i used W3 Validator to check my code was all correct and if any errors was in th
 
 
 ## Technologies Used
+
+### Languages
 * HTML
 * CSS
 
+### Technology
+* Github
+* Gitpod
 
-## Contact
 
-Project Link - https://markh55.github.io/EWYL/
+## Project Link
+
+https://markh55.github.io/EWYL/
 
 ## Acknowledgments 
  * [Favicon from icons8](https://icons8.com/)
