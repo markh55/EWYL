@@ -177,6 +177,11 @@ i used W3 Validator to check my code was all correct and if any errors was in th
 <img width="1184" alt="Validator - CallBack Page" src="https://github.com/user-attachments/assets/c3e572d3-7997-4a17-b4e5-f8265c9d4dcb" />
 
 
+### CSS - 
+
+<img width="1401" alt="Validator - CSS" src="https://github.com/user-attachments/assets/27a13833-c804-45c1-9cb7-547aa8679def" />
+
+
 
 ## Technologies Used
 * HTML
