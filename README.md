@@ -22,7 +22,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
     * [Desktop](#Desktop)
  6. [DeBugging](#DeBugging)
  7. [Technologies Used](#TechnologiesUsed)
- 8. [Contact](#Contact)
+ 8. [Project Link](#Projectlink)
  9. [Acknowledgments](#Acknowledgments)
 
    
