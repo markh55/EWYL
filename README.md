@@ -198,7 +198,11 @@ i used W3 Validator to check my code was all correct and if any errors was in th
 
 https://markh55.github.io/EWYL/
 
-## Acknowledgments 
+## Acknowledgments / Thank you's
+
+EWYL website was buitl using the below sources
+
+ * Code insitute - Inspiration from Love Running & Boaredwalk projects 
  * [Favicon from icons8](https://icons8.com/)
  * [W3schools](https://www.w3schools.com/)
  * [Font awesome](https://fontawesome.com/)
