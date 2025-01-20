@@ -202,7 +202,7 @@ https://markh55.github.io/EWYL/
 
 ## Acknowledgments / Thank you's
 
-EWYL website was buitl using the below sources
+EWYL website was built using the below sources
 
  * Code insitute - Inspiration from Love Running & Boaredwalk projects 
  * [Favicon from icons8](https://icons8.com/)
