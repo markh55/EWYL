@@ -71,7 +71,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 ![Get in Touch Page](https://github.com/user-attachments/assets/6fad31c2-83eb-4dc0-a6df-09582788e2af)
 
 
-Reason for design - I went with a basice yet responsive design that will be inviting to all users of the website aswell as giving all the relevent information.
+Reason for design - I went with a basic yet responsive design that will be inviting to all users of the website aswell as giving all the relevent information.
  
 ## Colour Scheme
 
@@ -128,6 +128,11 @@ Once on the pages site I would ensure the following settings was applied;
 
 
 ## Testing
+
+When testing my project using lighthouse, i found the below bugs / improvements to help the site perform better and score a better overall score:
+
+* Images was too large that was slowing the loading times, To fixed this i resized all the images to improve the load times.
+* Social media icons was too small, i fixed this by resizing them to have a better presents and be more aesthetically pleasing to the user.
 
 ### Mobile
 
