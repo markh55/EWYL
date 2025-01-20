@@ -25,7 +25,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
     * [Languages](#Languages)
     * [Technology](#Technology)
  8. [Project Link](#Projectlink)
-    	[https://markh55.github.io/EWYL/]
+    	[https://markh55.github.io/EWYL/](#https://markh55.github.io/EWYL/)
  10. [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)
 
    
