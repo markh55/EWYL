@@ -23,7 +23,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
  6. [DeBugging](#DeBugging)
  7. [Technologies Used](#TechnologiesUsed)
  8. [Project Link](#Projectlink)
- 9. [Acknowledgments](#Acknowledgments)
+ 9. [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)
 
    
  ## Planning
