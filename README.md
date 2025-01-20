@@ -22,8 +22,8 @@ My aim for this website is to be inviting and simple to use but also deliver eno
     * [Desktop](#Desktop)
  6. [DeBugging](#DeBugging)
  7. [Technologies Used](#TechnologiesUsed)
-    * [Languages](Languages)
-    * [Technology](Technology)
+    * [Languages](#Languages)
+    * [Technology](#Technology)
  8. [Project Link](#Projectlink)
  9. [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)
 
