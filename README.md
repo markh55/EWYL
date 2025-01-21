@@ -17,6 +17,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
     * [About Us](#AboutUs)
     * [What we Offer](#WhatweOffer)
     * [CallBack](#CallBack)
+    * [Footer](#Footer)
  4. [ColourScheme](#Colourscheme)
  5. [Final Design](#FinalDesign)
  6. [Deployment](#Deployment)
@@ -86,14 +87,14 @@ within this section i will show you what i have done for the features and explai
   * This is featured on all pages, its fully responsive to adapt to every screen size. It includes a link to each of the Home, Courses and Call Back pages on the right of the bar then on the left is the 'EWYL' logo that also acts as a home button.
   * With this design the user will have a clean and simple interface that will enable them to navigate from page to page regardless of the device they're using.
 
-    Desktop / Tablet -
+Desktop / Tablet -
 
-    <img width="975" alt="Navbar - Desktop : Tablet" src="https://github.com/user-attachments/assets/1ad8c4a1-04d1-4975-8885-372eb59679c7" />
+ <img width="975" alt="Navbar - Desktop : Tablet" src="https://github.com/user-attachments/assets/1ad8c4a1-04d1-4975-8885-372eb59679c7" />
 
 
-    Mobile -
+Mobile -
 
-    <img width="732" alt="Navbar - Mobile" src="https://github.com/user-attachments/assets/89bd2228-7045-4f32-a03a-7d6da57261b3" />
+ <img width="732" alt="Navbar - Mobile" src="https://github.com/user-attachments/assets/89bd2228-7045-4f32-a03a-7d6da57261b3" />
 
 
 ### About Us 
@@ -127,6 +128,13 @@ This section is to give as much information as possible but without overloading 
 ![Screenshot 2025-01-21 at 20 39 23](https://github.com/user-attachments/assets/6f47772c-73c7-4ceb-8369-28a96473fbb4)
 ![List of Quals](https://github.com/user-attachments/assets/ba29a05a-7c25-4ec9-bcca-f3ae5ac5558e)
 
+
+### Footer
+* The footer section includes the social media links for EWYL. The links will open in a new tab for easy navigation for the user.
+* The footer is designed to encourage the user to visit the EWYL social media sites to keep them connected and have the most upto date information
+![Footer](https://github.com/user-attachments/assets/833e760c-a522-4f86-a25c-38540149090c)
+
+  
  
 ## Colour Scheme
 
