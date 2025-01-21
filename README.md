@@ -12,20 +12,21 @@ My aim for this website is to be inviting and simple to use but also deliver eno
     * [User Stories](#UserStories)
     * [Aims](#Aims)
     * [How to achieved this](#Howtoachievedthis)
- 2. [ColourScheme](#Colourscheme)
- 3. [Final Design](#FinalDesign)
- 4. [Deployment](#Deployment)
+ 2. [Features](#Features)
+ 3. [ColourScheme](#Colourscheme)
+ 4. [Final Design](#FinalDesign)
+ 5. [Deployment](#Deployment)
     * [Repository](#Repository)
     * [Hosting](#Hosting)
- 5. [Testing](#Testing)
+ 6. [Testing](#Testing)
     * [Mobile](#Mobile)
     * [Desktop](#Desktop)
- 6. [DeBugging](#DeBugging)
- 7. [Technologies Used](#TechnologiesUsed)
+ 7. [DeBugging](#DeBugging)
+ 8. [Technologies Used](#TechnologiesUsed)
     * [Languages](#Languages)
     * [Technology](#Technology)
- 8. [Project Link](#Projectlink)
- 9. [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)
+ 9. [Project Link](#Projectlink)
+ 10. [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)
 
    
  ## Planning
@@ -72,6 +73,15 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 
 
 Reason for design - I went with a basic yet responsive design that will be inviting to all users of the website aswell as giving all the relevent information.
+
+## Features 
+
+
+
+
+
+
+
  
 ## Colour Scheme
 
