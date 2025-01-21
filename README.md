@@ -76,6 +76,23 @@ Reason for design - I went with a basic yet responsive design that will be invit
 
 ## Features 
 
+within this section i will show you what i have done for the features and explain why; 
+
+### Navigation Bar
+  * This is featured on all pages, its fully responsive to adapt to every screen size. It includes a link to each of the Home, Courses and Call Back pages on the right of the bar then on the left is the 'EWYL' logo that also acts as a home button.
+  * With this design the user will have a clean and simple interface that will enable them to navigate from page to page regardless of the device they're using.
+
+    Desktop / Tablet -
+
+    <img width="975" alt="Navbar - Desktop : Tablet" src="https://github.com/user-attachments/assets/1ad8c4a1-04d1-4975-8885-372eb59679c7" />
+
+
+    Mobile -
+
+    <img width="732" alt="Navbar - Mobile" src="https://github.com/user-attachments/assets/89bd2228-7045-4f32-a03a-7d6da57261b3" />
+
+
+
 
 
 
