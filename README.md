@@ -13,8 +13,8 @@ My aim for this website is to be inviting and simple to use but also deliver eno
     * [Aims](#Aims)
     * [How to achieved this](#Howtoachievedthis)
  2. [Features](#Features)
-    *[Navigation Bar](#NavigationBar)
-    *[About Us](#AboutUs)
+    * [Navigation Bar](#NavigationBar)
+    * [About Us](#AboutUs)
  4. [ColourScheme](#Colourscheme)
  5. [Final Design](#FinalDesign)
  6. [Deployment](#Deployment)
@@ -101,6 +101,7 @@ This section is to give as much information as possible but without overloading 
   * Is an apprenticeship for you - this is where the user will get an overview of what we dilever and how we deliver it so the user can understand and then make up there mind if its right for them.
   * Browse Courses button - This is a quick link to the courses page without the learner going to the top of the page to navigate.
 
+![Body - Home Page](https://github.com/user-attachments/assets/9439305d-a014-41f5-84bd-8b8004b019b9)
 
 
 
