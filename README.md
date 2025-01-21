@@ -14,20 +14,21 @@ My aim for this website is to be inviting and simple to use but also deliver eno
     * [How to achieved this](#Howtoachievedthis)
  2. [Features](#Features)
     *[Navigation Bar](#NavigationBar)
- 3. [ColourScheme](#Colourscheme)
- 4. [Final Design](#FinalDesign)
- 5. [Deployment](#Deployment)
+    *[About Us](#AboutUs)
+ 4. [ColourScheme](#Colourscheme)
+ 5. [Final Design](#FinalDesign)
+ 6. [Deployment](#Deployment)
     * [Repository](#Repository)
     * [Hosting](#Hosting)
- 6. [Testing](#Testing)
+ 7. [Testing](#Testing)
     * [Mobile](#Mobile)
     * [Desktop](#Desktop)
- 7. [DeBugging](#DeBugging)
- 8. [Technologies Used](#TechnologiesUsed)
+ 8. [DeBugging](#DeBugging)
+ 9. [Technologies Used](#TechnologiesUsed)
     * [Languages](#Languages)
     * [Technology](#Technology)
- 9. [Project Link](#Projectlink)
- 10. [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)
+ 10. [Project Link](#Projectlink)
+ 11. [Acknowledgments / Thank You's](#Acknowledgments/thanksyou's)
 
    
  ## Planning
@@ -93,7 +94,12 @@ within this section i will show you what i have done for the features and explai
     <img width="732" alt="Navbar - Mobile" src="https://github.com/user-attachments/assets/89bd2228-7045-4f32-a03a-7d6da57261b3" />
 
 
+### About Us 
 
+This section is to give as much information as possible but without overloading the user with too much at once. this is made up of 2 parts;
+  * About Us - this is where the user can get an idea of what we do and how we do it.
+  * Is an apprenticeship for you - this is where the user will get an overview of what we dilever and how we deliver it so the user can understand and then make up there mind if its right for them.
+  * Browse Courses button - This is a quick link to the courses page without the learner going to the top of the page to navigate.
 
 
 
