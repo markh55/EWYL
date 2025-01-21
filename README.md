@@ -15,6 +15,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
  2. [Features](#Features)
     * [Navigation Bar](#NavigationBar)
     * [About Us](#AboutUs)
+    * [What we Offer](#WhatweOffer)
  4. [ColourScheme](#Colourscheme)
  5. [Final Design](#FinalDesign)
  6. [Deployment](#Deployment)
@@ -103,6 +104,17 @@ This section is to give as much information as possible but without overloading 
 
 ![Body - Home Page](https://github.com/user-attachments/assets/9439305d-a014-41f5-84bd-8b8004b019b9)
 
+### What we Offer
+
+* This section allows the learner to see what courses EWYL offers along with a breif description on what each course has to offer.
+
+![What we offer pg1](https://github.com/user-attachments/assets/34d19a94-9ae8-4ff7-b7c5-07d3b883b7d9)
+
+
+
+* At the bottom of the page is a custom button that will take the learner to the Call Back page to request a call back from EWYL.
+
+![What we offer pg2](https://github.com/user-attachments/assets/16366b8f-6f60-46a6-aef7-b6e9809996ab)
 
 
 
