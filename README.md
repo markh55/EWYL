@@ -13,6 +13,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
     * [Aims](#Aims)
     * [How to achieved this](#Howtoachievedthis)
  2. [Features](#Features)
+    *[Navigation Bar](#NavigationBar)
  3. [ColourScheme](#Colourscheme)
  4. [Final Design](#FinalDesign)
  5. [Deployment](#Deployment)
