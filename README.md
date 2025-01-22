@@ -57,8 +57,8 @@ My aim for this website is to be inviting and simple to use but also deliver eno
      
 ## How to achieved this
    * The navigation bar will be clean and simplified containing only the pages and logo
-   * The home page will have the following an Hero image, About us and who we are section and a Is an apprentiship right for you section
-   * Page two will be the courses page that will contain a breif intro to each course along with a photo.
+   * The home page will have the following an Hero image, About us and a Is an apprentiship right for you section
+   * Page two will be the courses page that will contain a brief intro to each course along with a photo.
    * Page three will be the contact us page that will contain a form to request a call back and leave a message.
 
 
@@ -101,14 +101,14 @@ Mobile -
 
 This section is to give as much information as possible but without overloading the user with too much at once. this is made up of 2 parts;
   * About Us - this is where the user can get an idea of what we do and how we do it.
-  * Is an apprenticeship for you - this is where the user will get an overview of what we dilever and how we deliver it so the user can understand and then make up there mind if its right for them.
+  * Is an apprenticeship for you - this is where the user will get an overview of what we deliver and how we deliver it so the user can understand and then make up there mind if its right for them.
   * Browse Courses button - This is a quick link to the courses page without the learner going to the top of the page to navigate.
 
 ![Body - Home Page](https://github.com/user-attachments/assets/9439305d-a014-41f5-84bd-8b8004b019b9)
 
 ### What we Offer
 
-* This section allows the learner to see what courses EWYL offers along with a breif description on what each course has to offer.
+* This section allows the learner to see what courses EWYL offers along with a brief description on what each course has to offer.
 
 ![What we offer pg1](https://github.com/user-attachments/assets/34d19a94-9ae8-4ff7-b7c5-07d3b883b7d9)
 
