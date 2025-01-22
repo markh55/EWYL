@@ -1,6 +1,6 @@
 # EarnWhileYouLearn (EWYL)
 
-This site is aimed at getting adults into worked based learning to gain valuable skills for them and the employers, This is achieved beyond the traditional methods as learners get to gain hands on experience in their chosen section but still obtain a qualification at the end of the apprenticeship.
+This site is aimed at getting adults into worked based learning to gain valuable skills for them and the employers. This is achieved beyond the traditional methods as learners get to gain hands on experience in their chosen section but still obtain a qualification at the end of the apprenticeship.
 
 My aim for this website is to be inviting and simple to use but also deliver enough information to get the learner / employer to reach out and make contact with us so we can pair them with the perfect learner / employer to meet each other’s needs.
 
@@ -16,7 +16,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
     * [Navigation Bar](#NavigationBar)
     * [About Us](#AboutUs)
     * [What we Offer](#WhatweOffer)
-    * [CallBack](#CallBack)
+    * [Call Back](#CallBack)
     * [Footer](#Footer)
  4. [ColourScheme](#Colourscheme)
  5. [Final Design](#FinalDesign)
@@ -37,27 +37,27 @@ My aim for this website is to be inviting and simple to use but also deliver eno
  ## Planning
 
 ### Target Audiences
-   * People looking to gain reconised qualifications while earning.
-   * Employers looking for apprentice to show and guide them through this learning journey.
+   * People looking to gain recognised qualifications while earning.
+   * Employers looking for apprentices to show and guide them through this learning journey.
    * School leavers who wants to further their education but also work at the same time.
 
 ### User Stories
    
-   * As a potential user i would like the site to have a user friendly navigation so anyone can use your site with ease.
-   * As a potential user the site needs to have a good selection of available courses that im able to sign up too.
+   * As a potential user I would like the site to have a user friendly navigation so anyone can use your site with ease.
+   * As a potential user the site needs to have a good selection of available courses that I'm able to sign up too.
    * I would like to see a clear but useful contact us form with navigation from the courses page.
-   * When using your site i would like to see images with the courses along with detailed descriptions.
+   * When using your site I would like to see images with the courses along with detailed descriptions.
    * I would like to have the option to sign up to weekly/monthly newsletters to keep up with all the latest news and what is on offer.
 
 ### Aims
    * To provide clear information on what courses are available.
    * To provide a simple and userfriendly website to navigate.
    * To have a contact us section so a clear line of contact is available.
-   * To have clear information on what an apprenticship intails on the home page but not too much information to overload the user
+   * To have clear information on what an apprenticship entails on the home page but not too much information to overload the user.
      
-## How to achieved this
-   * The navigation bar will be clean and simplified containing only the pages and logo
-   * The home page will have the following an Hero image, About us and a Is an apprentiship right for you section
+## How to achieve this
+   * The navigation bar will be clean and simplified containing only the pages and logo.
+   * The home page will have the following; a Hero image, About Us and an Is An Apprenticeship Right For You section.
    * Page two will be the courses page that will contain a brief intro to each course along with a photo.
    * Page three will be the contact us page that will contain a form to request a call back and leave a message.
 
@@ -77,14 +77,14 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 ![Get in Touch Page](https://github.com/user-attachments/assets/6fad31c2-83eb-4dc0-a6df-09582788e2af)
 
 
-Reason for design - I went with a basic yet responsive design that will be inviting to all users of the website aswell as giving all the relevent information.
+Reason for design - I went with a basic yet responsive design that will be inviting to all users of the website aswell as giving out all the relevent information.
 
 ## Features 
 
-within this section i will show you what i have done for the features and explain why; 
+Within this section I will show you what I have done for the features and explain why; 
 
 ### Navigation Bar
-  * This is featured on all pages, its fully responsive to adapt to every screen size. It includes a link to each of the Home, Courses and Call Back pages on the right of the bar then on the left is the 'EWYL' logo that also acts as a home button.
+  * This is featured on all pages, it's fully responsive to adapt to every screen size. It includes a link to each of the Home, Courses and Call Back pages on the right of the bar then on the left is the 'EWYL' logo that also acts as a home button.
   * With this design the user will have a clean and simple interface that will enable them to navigate from page to page regardless of the device they're using.
 
 Desktop / Tablet -
@@ -99,10 +99,10 @@ Mobile -
 
 ### About Us 
 
-This section is to give as much information as possible but without overloading the user with too much at once. this is made up of 2 parts;
+This section is to give as much information as possible but without overloading the user with too much at once. This is made up of 2 parts;
   * About Us - this is where the user can get an idea of what we do and how we do it.
-  * Is an apprenticeship for you - this is where the user will get an overview of what we deliver and how we deliver it so the user can understand and then make up there mind if its right for them.
-  * Browse Courses button - This is a quick link to the courses page without the learner going to the top of the page to navigate.
+  * Is an apprenticeship for you - this is where the user will get an overview of what we deliver and how we deliver it so the user can understand and then make up their mind if its right for them.
+  * Browse Courses button - this is a quick link to the courses page without the learner going to the top of the page to navigate.
 
 ![Body - Home Page](https://github.com/user-attachments/assets/9439305d-a014-41f5-84bd-8b8004b019b9)
 
@@ -120,9 +120,9 @@ This section is to give as much information as possible but without overloading 
 
 
 ### CallBack
-* This section is for the Call Back form that is used to requested more information for any of the courses we offer.
-* The form is made up of 5 parts ( Name, Phone Number, Email, Course and message here )
-* The Submit button will not allow the user to submite the form until all fields are comopleted, if a field is not completed a message appears to say.
+* This section is for the Call Back form that is used to request more information for any of the courses we offer.
+* The form is made up of 5 parts (Name, Phone Number, Email, Course and Message Here)
+* The Submit button will not allow the user to submit the form until all fields are completed, if a field is not completed a messages appears to let them know it is incomplete.
 
 ![CallBack form](https://github.com/user-attachments/assets/62501ce8-2c7a-4187-a2b8-0825425a8b05)
 ![Screenshot 2025-01-21 at 20 39 23](https://github.com/user-attachments/assets/6f47772c-73c7-4ceb-8369-28a96473fbb4)
@@ -131,7 +131,7 @@ This section is to give as much information as possible but without overloading 
 
 ### Footer
 * The footer section includes the social media links for EWYL. The links will open in a new tab for easy navigation for the user.
-* The footer is designed to encourage the user to visit the EWYL social media sites to keep them connected and have the most upto date information
+* The footer is designed to encourage the user to visit the EWYL social media sites to keep them connected and have the most up to date information.
 ![Footer](https://github.com/user-attachments/assets/833e760c-a522-4f86-a25c-38540149090c)
 
   
@@ -140,7 +140,7 @@ This section is to give as much information as possible but without overloading 
 
 ![Colour Scheme (1)](https://github.com/user-attachments/assets/8a3b91fc-59a6-4c75-9a7b-6f1169675890)
 
-This is the colour scheme i went with as i feel the contrast compliment each other.
+This is the colour scheme i went with as i feel the contrasting colours compliment each other well.
 
 
 ## Final Design
@@ -153,7 +153,7 @@ Courses Page -
 <img width="1485" alt="Mockup Courses page" src="https://github.com/user-attachments/assets/2d7a72ae-1558-431b-a78d-a6018c5f1372" />
 
 
-CallBack Page -
+Call Back Page -
 
 <img width="1378" alt="Mockup CallBack page" src="https://github.com/user-attachments/assets/1cd1e490-b383-4e30-b4d3-af6367ae500c" />
 
@@ -162,7 +162,7 @@ CallBack Page -
 
 ### Repository
 
-•	I made public local repository on my Github account, I then linked my repository to my Gitpod account and start building.
+•	I made a public local repository on my Github account, I then linked my repository to my Gitpod account and started building.
 
 •	When writing my code I ensured that I committed my changes to the repository using clear and direct messages for any changes such as “linked Style.css file to index.HTML” this is done by doing the following;
 In the terminal type;
@@ -170,18 +170,18 @@ In the terminal type;
 * git commit -m “Enter message here”
 * git push
 
-I would send a commit after each change then I would push the file once ive made 3 or 4 changes.
+I would send a commit after each change then I would push the file once i made 3 or 4 changes.
 
 
 ### Hosting
 
-This is how I will host my website, On Github I Selected my Earn While You Learn (EWYL) 
+This is how I hosted my website: On Github I Selected my Earn While You Learn (EWYL) 
 Repository, then go to;
 * Settings
 * Pages
 
   
-Once on the pages site I would ensure the following settings was applied;
+Once on the pages site I would ensure the following settings were applied;
 	Source would need to be set to ‘Deploy from branch’
 	Branch will need to be set to main and then root. 
 	Save.
@@ -194,8 +194,8 @@ Once on the pages site I would ensure the following settings was applied;
 
 When testing my project using lighthouse, i found the below bugs / improvements to help the site perform better and score a better overall score:
 
-* Images was too large that was slowing the loading times, To fixed this i resized all the images to improve the load times.
-* Social media icons was too small, i fixed this by resizing them to have a better presents and be more aesthetically pleasing to the user.
+* Images were too large that was slowing the loading times. To fix this i resized all of the images to improve the load times.
+* Social media icons were too small, I fixed this by resizing them to have a better presents and be more aesthetically pleasing for the user.
 
 ### Mobile
 
@@ -231,7 +231,7 @@ Desktop CallBack page -
 ## DeBugging
 [Home page error check.pdf](https://github.com/user-attachments/files/18400775/Home.page.error.check.pdf)
 
-i used W3 Validator to check my code was all correct and if any errors was in there. the outcome was 10 errors that has been fixed in the image below
+i used W3 Validator to check my code was all correct and if any errors were in there. The outcome was 10 errors that has been fixed in the image below.
 
 ### Home Page -
 ![Errors Fixed](https://github.com/user-attachments/assets/e3d8627e-9535-48a9-8e16-834785a7c3a5)
